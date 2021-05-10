@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610802907 source:c:\users\ahmed\desktop\amit\round_structure\main.cpp
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+
